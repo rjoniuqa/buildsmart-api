@@ -1,0 +1,6 @@
+
+tiles:
+    methods:    ['get']
+    path:    '/api/products/tiles'
+    controller:    'TilesController'
+    action: 'tiles'
